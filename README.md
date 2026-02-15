@@ -8,4 +8,6 @@ Started: 15th Feb 2026
 - Build React projects
 
 ## Progress Log
-Week 1: HTML basics
+Day 1: 
+- Learned HTML structure
+- Tags: html, head, body, h1–h6, p
